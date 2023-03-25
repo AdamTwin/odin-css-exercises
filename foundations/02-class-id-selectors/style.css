@@ -1,0 +1,19 @@
+.class {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.class.cooler {
+    font-size: 20px;
+}
+
+#number2 {
+    font-size: 50px;
+    color: blue;
+}
+
+#number4 {
+    font-weight: bold;
+    background-color: greenyellow;
+}
